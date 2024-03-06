@@ -6,6 +6,7 @@ pandas
 Pyarrow
 tabula-py
 python-dotenv
+deep_translator
 
 aniso8601
 click
